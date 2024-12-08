@@ -1,6 +1,6 @@
 
 // Código estável para usar arquivos csv
-// Para versão 2.2.3 basta aguardar planilha de novembro.
+// Para versão 2.2.5 basta aguardar planilha de janeiro.
 // Para gerar os csv, usar gerar csv planilhas na pasta tools
 // Colar atualizações nos nos arquivos da pasta CSV
 
